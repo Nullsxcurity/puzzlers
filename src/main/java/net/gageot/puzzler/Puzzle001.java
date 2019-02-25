@@ -18,5 +18,6 @@ public final class Puzzle001 {
 
 	public static boolean isOddFixedAndFaster(int i) {
 		return (i & 1) != 0;
+		
 	}
 }
